@@ -1,12 +1,19 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+h1{
+    text;
+}
 *{
     padding:  0;
     margin: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 
-section{
+.section{
     background-image: url("../img/bg.webp");
     height: 100vh;
-    background-size: cover
+    background-size: cover;
     width :100%;
 }
 
@@ -18,7 +25,7 @@ section{
     padding: 5px 15px;
 }
 
-h2{
+.logo{
     color: white;
 }
 
@@ -27,11 +34,11 @@ a{
     text-decoration: none;
 }
 
-ul{
+.navbar ul{
     list-style: none;
     display: inline-flex;
 }
 
-li{
+.navbar li{
     padding-right: 15px;
 }
