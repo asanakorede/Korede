@@ -43,3 +43,17 @@ a {
 .navbar li {
     padding-right: 15px;
 }
+
+.navbar li a:hover{
+ text-decoration: underline;
+}
+
+.showcase{
+    padding-left: 30px;
+    padding top: 50px
+}
+
+.showcase h1{
+    color: white;
+    font-size: 120px;
+}
