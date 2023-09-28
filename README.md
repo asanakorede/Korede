@@ -14,7 +14,7 @@ Welcome to my project! This page allows users know more about our video network 
 >## Setup/Installation requirements
 * Clone this repository to your desktop
 * Navigate to the top level of your directory
-* Click on sports/football.html
+* Click on korede/index.html
 
 >## Known Bugs
 * No Known Bugs
