@@ -57,3 +57,29 @@ a {
     color: white;
     font-size: 120px;
 }
+
+.showcase-bottom {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.showcase-bottom button {
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: 0;
+    cursor: pointer;
+}
+
+.showcase-bottom button :hover{
+    background-color: black;
+    color: white; 
+}
+
+.showcase-bottom p{
+    color: white;
+}
