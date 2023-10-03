@@ -75,7 +75,7 @@ a {
     cursor: pointer;
 }
 
-.showcase-bottom button :hover{
+.showcase-bottom  button:hover {
     background-color: black;
     color: white; 
 }
@@ -83,3 +83,50 @@ a {
 .showcase-bottom p{
     color: white;
 }
+
+/* CTA section */
+.cta-section {
+    background-color: #a1002e;
+    padding: 10px 30px;
+}
+
+.cta-content h3{
+    font-size: 50px;
+    color: white;
+}
+
+.cta-grid {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.cta-grid h3{
+    font-size: 50px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+.cta-grid p{
+    font-size: 25px;
+    color: white;
+}
+
+.grid-1 {
+    background-color: #b43358;
+    padding: 30px;
+    padding-right: 90px;
+}
+
+.grid-2 {
+    background-color: #c76682;
+    padding: 30px;
+    padding-right: 90px;
+}
+
+.grid-3 {
+    background-color: #d999ab;
+    padding: 30px;
+    padding-right: 90px;
+}
+
